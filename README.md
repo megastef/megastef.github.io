@@ -15,7 +15,7 @@ IT Consulting / Open-Source Projects / Freelancer
 
 - Telecommunication networks and Lawful Interception
 - Network monitoring & cybersecurity
-- Container technologies, [Docker](https://docekr.com) & [Kubernetes](https://kubernetes.io)
+- Container technologies, [Docker](https://docker.com) & [Kubernetes](https://kubernetes.io)
 - Big data tools and data stores (Elasticsearch, Crate.io, Kafka, ClickHouse, MongoDB, Oracle, ...)
 - Performance monitoring
 - Log management 
@@ -25,9 +25,10 @@ IT Consulting / Open-Source Projects / Freelancer
 
 - DevOps Evangelist [@sematext](https://sematext.com)
 - Freelancer / IT Consulting
-- Sales / Account Manager [@siemens](https://www.siemens.com/lu/fr/home.html) / Pre-Sales (Telco) [@verint](https://https://cis.verint.com/)
+- Pre-Sales Engineer (Telco) [@verint](https://https://cis.verint.com/)
+- Sales / Account Manager [@siemens](https://www.siemens.com/lu/fr/home.html) 
 - Product Manager [@verint](https://https://cis.verint.com/)
-- Software Developer & Team Leader [@verint](https://https://cis.verint.com/)
+- Software Developer & Team Leader [@verint](https://https://cis.verint.com/) 
 
 
 # Languages
