@@ -1,3 +1,12 @@
+# Contact
+ 
+- Twitter: <a href="https://twitter.com/seti321?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @seti321</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- LinkedIn: [Stefan Thies](https://www.linkedin.com/in/stefan-thies-a44a863/)
+- Xing: [Stefan Thies](https://www.xing.com/profile/Stefan_Thies/cv)
+- Github: [megastef](https://github.com/megastef)
+- NPM: [megastef](https://www.npmjs.com/~megastef)
+
+
 # Services
 
 IT Consulting / Open-Source Projects / Freelancer
@@ -11,14 +20,6 @@ IT Consulting / Open-Source Projects / Freelancer
 - Performance monitoring
 - Log management 
 - Agile Development & DevOps methodology 
-
-# Contact
- 
-- Twitter: <a href="https://twitter.com/seti321?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @seti321</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-- LinkedIn: [Stefan Thies](https://www.linkedin.com/in/stefan-thies-a44a863/)
-- Xing: [Stefan Thies](https://www.xing.com/profile/Stefan_Thies/cv)
-- Github: [megastef](https://github.com/megastef)
-- NPM: [megastef](https://www.npmjs.com/~megastef)
 
 # Work Experience
 
