@@ -5,7 +5,13 @@
 - Xing: [Stefan Thies](https://www.xing.com/profile/Stefan_Thies/cv)
 - Github: [megastef](https://github.com/megastef)
 - NPM: [megastef](https://www.npmjs.com/~megastef)
+
+# Blog posts 
+
 - DZone: [Stefan Thies](https://dzone.com/users/1332007/s.thies.html)
+- Sematext Blog: [https://sematext.com/blog/author/seti123/](https://sematext.com/blog/author/seti123/)
+- Medium: [https://medium.com/@seti321](https://medium.com/@seti321)
+- O'REILLY: [o'reilly](https://www.oreilly.com/people/48f63-stefan-thies)
 
 # Services
 
