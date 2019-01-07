@@ -20,6 +20,8 @@ IT Consulting / Open-Source Projects / Freelancer
 - Performance monitoring
 - Log management 
 - Agile Development & DevOps methodology 
+- Product Management, Sales, Marketing
+- Scalable Software Architectures
 
 # Work Experience
 
@@ -33,7 +35,15 @@ IT Consulting / Open-Source Projects / Freelancer
 
 # Languages
 
-- German, English, French
-- Node/JavaScript, Python, Java, ... 
+- German
+- English
+- French
 
-# [Imprint / Impressum](impressum.md)
+# Programming Languages
+
+- Node / JavaScript
+- Python
+- Java, Shellscripts, ... 
+
+
+[Imprint / Impressum](impressum.md)
