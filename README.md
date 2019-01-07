@@ -5,7 +5,7 @@
 - Xing: [Stefan Thies](https://www.xing.com/profile/Stefan_Thies/cv)
 - Github: [megastef](https://github.com/megastef)
 - NPM: [megastef](https://www.npmjs.com/~megastef)
-
+- DZone: [Stefan Thies](https://dzone.com/users/1332007/s.thies.html)
 
 # Services
 
@@ -15,8 +15,8 @@ IT Consulting / Open-Source Projects / Freelancer
 
 - Telecommunication networks and Lawful Interception
 - Network monitoring & cybersecurity
-- Container technologies, Docker & Kubernetes
-- Big data tools and data stores
+- Container technologies, [Docker](https://docekr.com) & [Kubernetes](https://kubernetes.io)
+- Big data tools and data stores (Elasticsearch, Crate.io, Kafka, ClickHouse, MongoDB, Oracle, ...)
 - Performance monitoring
 - Log management 
 - Agile Development & DevOps methodology 
@@ -25,7 +25,7 @@ IT Consulting / Open-Source Projects / Freelancer
 
 - DevOps Evangelist [@sematext](https://sematext.com)
 - Freelancer / IT Consulting
-- Sales / Account Manager / Pre-Sales (Telco) [@verint](https://https://cis.verint.com/)
+- Sales / Account Manager [@siemens](https://www.siemens.com/lu/fr/home.html) / Pre-Sales (Telco) [@verint](https://https://cis.verint.com/)
 - Product Manager [@verint](https://https://cis.verint.com/)
 - Software Developer & Team Leader [@verint](https://https://cis.verint.com/)
 
