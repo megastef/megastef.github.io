@@ -1,15 +1,3 @@
-<head>
- <script type="text/javascript">
-  (function(e,t,r,n,a){var c=[];e[a]=function(){c.push(arguments)};
-  e[a].queue=c;var s=t.createElement(r);s.async=1;s.src=n;
-  var u=t.getElementsByTagName(r)[0];u.parentNode.insertBefore(s,u)})
-  (window,document,"script","//cdn.sematext.com/rum.js","strum");
-</script>
-
-<script type="text/javascript">
-  strum('config', { token: 'fd8f1aaf-9870-4bc9-9f55-b8cabaecf913', 'receiverUrl': 'https://rum-receiver.sematext.com' });
-</script>
-</head>
 # Contact
  
 - Twitter: <a href="https://twitter.com/seti321?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @seti321</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -66,5 +54,13 @@ IT Consulting / Open-Source Projects / Freelancer
 
 [Imprint / Impressum](impressum.md)
 
+<script type="text/javascript">
+  (function(e,t,r,n,a){var c=[];e[a]=function(){c.push(arguments)};
+  e[a].queue=c;var s=t.createElement(r);s.async=1;s.src=n;
+  var u=t.getElementsByTagName(r)[0];u.parentNode.insertBefore(s,u)})
+  (window,document,"script","//cdn.sematext.com/rum.js","strum");
+</script>
 
-
+<script type="text/javascript">
+  strum('config', { token: 'fd8f1aaf-9870-4bc9-9f55-b8cabaecf913', 'receiverUrl': 'https://rum-receiver.sematext.com' });
+</script>
